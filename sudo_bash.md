@@ -1,0 +1,6 @@
+# Unix and CLI Resource List
+
+- [Ubuntu/Debian Commands List](https://milq.github.io/useful-terminal-commands-ubuntu-debian/) or [50 Best Commands](https://www.ubuntupit.com/the-50-best-linux-commands-to-run-in-the-terminal/) for knowing good simple commands.
+- [Archwiki](https://wiki.archlinux.org) - For terminal based programs or errors related BIOS etc. sometimes
+- [Archwiki's List of Software and Commandline tools](https://wiki.archlinux.org/index.php/List_of_applications) - List of Command Line Tools
+- `compgen -ca` for list of commands in your terminal!
