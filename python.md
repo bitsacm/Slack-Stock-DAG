@@ -1,0 +1,13 @@
+# Python Resource List 
+- [Python 3 Docs](https://docs.python.org/3/)
+- [OOP in Python](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) - tutorials for Object Oriented Programming in Python
+- [D Bader's Advice](https://dbader.org/blog/python-projects-inspiration) for beginners
+- [Python Decorators](https://blog.apcelent.com/python-decorator-tutorial-with-example.html)
+- [Python Module of the Week](https://pymotw.com/3/) - Great place to learn about different python modules
+- [Python Programming Style](https://docs.python-guide.org/writing/style/)
+- [Time Complexity](https://wiki.python.org/moin/TimeComplexity)
+- [Expert Topics In Python](https://www.youtube.com/watch?v=7lmCu8wz8ro)
+- [Simulation Pointers in Python](https://realpython.com/pointers-in-python/#simulating-pointers-in-python)
+- [Memory Management in Python](https://realpython.com/python-memory-management/)
+- [Intro to Func Programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
+- [Fun with Python's Newer Tools](https://archive.org/details/pyvideo_367___fun-with-python-s-newer-tools) - PyCon2011 Video
