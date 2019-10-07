@@ -4,6 +4,7 @@
 - Network layer chapter from Computer Networks: A top down approach by Kurose and Ross to learn about routing algorithms.This should give you an intermediate understanding of modern internet architecture
 - Unix Network Programming by R. Stevens
 - The book: [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters)
+- [Linux File System](https://www.youtube.com/watch?v=HbgzrKJvDRw) - Video on the root folders for beginners
 
 ## Tips and Tricks
 - Best way to explore systems engineering is to read research papers.

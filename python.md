@@ -11,3 +11,4 @@
 - [Memory Management in Python](https://realpython.com/python-memory-management/)
 - [Intro to Func Programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 - [Fun with Python's Newer Tools](https://archive.org/details/pyvideo_367___fun-with-python-s-newer-tools) - PyCon2011 Video
+- [LearnPython.org](https://www.learnpython.org/) - For beginning learning python
