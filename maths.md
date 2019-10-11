@@ -7,3 +7,4 @@
 - [Free Math Books](https://medium.com/free-stuff/free-math-books-a83aff081d89)
 - [Medium / Cantor's Paradise](https://medium.com/cantors-paradise)
 - [Dan Spielman's Spectral Graph Theory](http://www.cs.yale.edu/homes/spielman/)
+- [Math Intersect Programming](https://jeremykun.com/main-content/) - Amazing blog by Jeremy Kun on mathematical applications in computer science.
