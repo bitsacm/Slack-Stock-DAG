@@ -4,4 +4,3 @@
 - [QML Course](https://www.edx.org/course/quantum-machine-learning-2) - To be done after "Griffiths of QC"
 - Learn a programming framework/language:
 Cirq, Q#, Qiskit, Xanadu, etc are the most popular ones and can be learned from their official documentation.
-
