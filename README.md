@@ -7,5 +7,3 @@ The resources are in the form of lists only temporarily, until we finalise a goo
 * This should especially help beginners who are unsure how to start with any topic.
 
 Once the DAG is completely set up, the next aim is creating a template for everyone to comfortably keep flags on the resources they have finished (probably a red-green DAG). This will be really helpful in the long term, for this allows everyone to show what they know, both to others and themselves. A link to that page would be quite more efficient than a "Intermediate: C++/Python" on your resumè
-
-
