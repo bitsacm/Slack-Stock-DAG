@@ -12,3 +12,4 @@
 - [Intro to Func Programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 - [Fun with Python's Newer Tools](https://archive.org/details/pyvideo_367___fun-with-python-s-newer-tools) - PyCon2011 Video
 - [LearnPython.org](https://www.learnpython.org/) - For beginning learning python
+- [Python tutorials by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Complete Tutorial on python from scratch to applications.
