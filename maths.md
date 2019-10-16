@@ -8,3 +8,7 @@
 - [Medium / Cantor's Paradise](https://medium.com/cantors-paradise)
 - [Dan Spielman's Spectral Graph Theory](http://www.cs.yale.edu/homes/spielman/)
 - [Math Intersect Programming](https://jeremykun.com/main-content/) - Amazing blog by Jeremy Kun on mathematical applications in computer science.
+- [Brilliant](https://www.brilliant.org): Loads of amazing problems and wiki articles on almost anything.
+- [Project Euler](https://projecteuler.net/) has good quality math-programming problems.
+- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) lectures by Gilbert Strang.
+- [The Evolution of Trust](https://ncase.me/trust/) : This is an example of how math affects the society. Illustratively beautiful!
