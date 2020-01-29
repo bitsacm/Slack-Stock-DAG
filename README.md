@@ -8,6 +8,6 @@ The resources are in the form of lists only temporarily, until we finalise a goo
 
 Once the DAG is completely set up, the next aim is creating a template for everyone to comfortably keep flags on the resources they have finished (probably a red-green DAG). This will be really helpful in the long term, for this allows everyone to show what they know, both to others and themselves. A link to that page would be quite more efficient than a "Intermediate: C++/Python" on your resumè
 
-Apart from the abovementioned benefits over many pre-existing "Awesome Lists" on Github, there's a sidelined benefit that helps a lot in the long run. That is, it is constrained, and biased. Created by seniors from the same university from the same country, this provides a very good path for a junior who'd find themselves in quite a similar situation.
+Apart from the abovementioned benefits over many pre-existing "[Awesome Lists](https://github.com/sindresorhus/awesome)" on Github, there's a sidelined benefit that helps a lot in the long run. That is, it is constrained, and biased. Created by seniors from the same university from the same country, this provides a very good path for a junior who'd find themselves in quite a similar situation.
 
 l-e-a-r-n

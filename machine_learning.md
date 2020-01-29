@@ -12,5 +12,8 @@
 - [Visualizing DeepNets](http://yosinski.com/deepvis)
 - [DeepNet Recommendations](https://arxiv.org/pdf/1206.5533v2.pdf) - research paper
 - [Deep RL Lecture Series](https://sites.google.com/view/deep-rl-bootcamp/lectures)
-- [Beginner Projects](https://github.com/MananSoni42/ML-SIG-2019/)
 - [Genetic Algorithm](https://blog.sicara.com/getting-started-genetic-algorithms-python-tutorial-81ffa1dd72f9) - article for beginners
+- [Youtube Recommending system Paper](https://dl.acm.org/doi/10.1145/3298689.3346997)
+
+## ML Winter SIGs
+- [Beginner Projects](https://github.com/MananSoni42/ML-SIG-2019/)

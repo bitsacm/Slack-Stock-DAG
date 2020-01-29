@@ -6,3 +6,4 @@
 - `compgen -ca` for list of commands in your terminal!
 - [Luke Smith's Playlists](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA/playlists) - Videos for more extreme terminal stuff!
 - [Bash Shortcuts for Productivity](https://skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/)
+- [Explain Shell](https://youtu.be/F_Riqjdh2oM): Explains command-line arguments (Great for beginners)
