@@ -11,5 +11,11 @@
 - https://www.npmjs.com/package/iproxy
 
 ## Extras:
+- https://realpython.com/django-redirects/
+- [Checkmate 2019 - 2](http://checkmate2019.herokuapp.com): Link to play the game. [Github Repo](https://github.com/ashryaagr/Checkmate-2019-2)
+- [Autohost](http://github.com/dush-t/autohost): Shell scripts for quick production and deployment of web apps
+- [localtunnel](https://localtunnel.github.io/www/): To get a url to your local server
 
-https://realpython.com/django-redirects/
+## Tasks:
+- [Winter 2019-20 SIG Tasks](https://github.com/ashryaagr/Winter-SIG)
+- [Ecommerce App](https://github.com/dush-t/dvm-assignments/blob/master/back-end/django/ecommerce-app/README.md)

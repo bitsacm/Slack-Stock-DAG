@@ -12,3 +12,4 @@
 - [Project Euler](https://projecteuler.net/) has good quality math-programming problems.
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) lectures by Gilbert Strang.
 - [The Evolution of Trust](https://ncase.me/trust/) : This is an example of how math affects the society. Illustratively beautiful!
+- [Online Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap12.pdf)

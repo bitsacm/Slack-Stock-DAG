@@ -1,5 +1,26 @@
 # Competitive Programming and DSA
 
+## Resources for Competitive Programming (2019-20)
+Before you proceed with the resources make sure you have an intermediate knowledge of any programming language of your choice.
+If you are starting with a language I would recommend learning C++.  This is a good resource to prepare for competitive. It has theory as well as problems you can do topic wise.  https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation Those who are interested in preparing from MOOCs ( video lectures ) 
+1.  https://www.coursera.org/learn/algorithms-part1
+2.  https://www.coursera.org/learn/algorithms-part1
+
+For people interested in theoretical aspects of competitive programming you can see :
+1.  MIT 6.006 ( https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+2.  MIT 6.046 ( https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+
+Euler project is a good site to practice problems which are more maths orientated.
+If reading books is your style :
+1.  Algorithm design manual by Skiene
+( https://www.google.com/url?sa=t&source=web&rct=j&url=http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf&ved=2ahUKEwjmu5vP87bmAhXQzTgGHamHDB0QFjAAegQIBBAB&usg=AOvVaw0VAAj2xLi_7OZXfdZSfl6L)
+2.  Competitive Programming 3: The New Lower Bound of Programming Contests Book by Felix Halim and Steven Halim
+For practicing problems you can visit any popular website like Codechef, Codeforces, SPOJ
+
+**A very very important note**: To excel in competitive you need to practice lots of questions and participate in competitions regularly. Do not get demotivated by the rank you get in these competitions. Your rank will improve with time. Competitive programming can be intimidating
+when you are starting off but it will get easier with practice(sort of..). You have a 2 week vacation and you should participate in at least 2-3 competitions.
+
+
 ## How to start? (For absolute beginners):
 -  Pick your IDE! for linux users, you can use your favourite text editor along with the terminal. Windows users can use codeblocks, VScode etc. There are few online IDEs as well if you don't want to waste any time setting up your envirounment. ideone.com and codechef.com/ide are the more popular ones.
 - Pick your programming language! No language is better, it is only your prowess with it that will determine your performance. Even if you are unsure, continue with C for now. You will eventually figure out C++ very smoothly.
