@@ -10,3 +10,5 @@
     - [PyCon 2019 David Beazley](https://youtu.be/pkCLMl0e_0k)
 - [Array Programming Paradigm](https://bobkonf.de/2019/hsu.html)
 - [Static Website Compiler in Haskell](https://github.com/jaspervdj/Hakyll/)
+### Others
+- [Effecient Parsing of large text files in Haskell](https://hbtvl.wordpress.com/2015/11/19/efficient-parsing-of-large-text-files-part-1/)
