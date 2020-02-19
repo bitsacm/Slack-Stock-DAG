@@ -13,3 +13,7 @@
 
 ## Tips and Tricks
 - Best way to explore systems engineering is to read research papers.
+
+## Others
+- [A view on Monolithic Architecture](https://changelog.com/posts/monoliths-are-the-future)
+- [What is /proc ?](https://ops.tips/blog/what-is-slash-proc/)

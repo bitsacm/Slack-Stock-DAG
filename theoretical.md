@@ -17,3 +17,6 @@ the first 3 chapters will be sufficient.
         - [lecture 4](http://timroughgarden.org/w16/l/l10.pdf): The Minimax Theorem and Algorithms for Linear Programming
     - [How to find the dual of a complex linear program](http://www.cs.columbia.edu/coms6998-3/lpprimer.pdf):
         Useful if your linear program is hard to express in standard form.
+
+## Others
+- http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html
