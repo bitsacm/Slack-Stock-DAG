@@ -69,6 +69,7 @@ the first 3 chapters will be sufficient.
 - [TheoremDep](https://sharmaeklavya2.github.io/theoremdep/):
 Large list of theorems commonly required in theoretical computer science.
 - [Competitive programming](competitive.md) is a good way to hone your algorithmic problem-solving skill.
-- Facility in linear algebra is required for advanced algorithms.
+- Facility in linear algebra and probability is required for advanced algorithms
+(see [maths.md](maths.md)).
 - [Cryptography](cryptography.md) is also considered a part of theoretical CS.
 - http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html
