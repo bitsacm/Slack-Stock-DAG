@@ -10,6 +10,7 @@
 - \[course\] [MIT Math for CS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 - \[problems, articles\] [Brilliant](https://www.brilliant.org): Loads of amazing problems and wiki articles on almost anything.
 - \[problems\] [Project Euler](https://projecteuler.net/) has good quality math-programming problems.
+- \[book\] [Napkin Project](https://web.evanchen.cc/napkin.html) A great (free) book to learn more Math (with almost every topic)
 
 ### Advanced
 
@@ -24,6 +25,7 @@ Then read a bit about Lebesgue integration
 which helps give a rigorous and general
 [definition of 'expected value'](https://en.wikipedia.org/wiki/Expected_value#General_case).
 - \[course\] [Dan Spielman's Spectral Graph Theory](http://www.cs.yale.edu/homes/spielman/)
+- \[book\] Topology by James R. Munkres - A well-written book for topology even for beginners.
 
 ## Blogs, visualizations, references
 
@@ -34,3 +36,5 @@ which helps give a rigorous and general
 - \[blog\] [Medium / Cantor's Paradise](https://medium.com/cantors-paradise)
 - \[blog\] [Math Intersect Programming](https://jeremykun.com/main-content/) - Amazing blog by Jeremy Kun on mathematical applications in computer science.
 - \[visualization\] [The Evolution of Trust](https://ncase.me/trust/): This is an example of how math affects the society. Illustratively beautiful!
+- \[blog\] [11011110](https://11011110.github.io) - Interesting Math Puzzles and a good blog with computer science and math.
+- \[blog\] [Problem-Solving Strategies](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/) - Terrance Tao's problem solving strategies for Elementary Analysis.

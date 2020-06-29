@@ -33,3 +33,5 @@
 
 ## Other Resources
 - A very good list of learning resources for flutter: https://github.com/Solido/awesome-flutter
+- [BITSACM - App Development](https://blog.bitsacm.in/tag/app-development/)
+    - [Flutter Vs React Native](https://blog.bitsacm.in/flutter-vs-react-native/)
