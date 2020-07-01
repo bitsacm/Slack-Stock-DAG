@@ -54,6 +54,7 @@ This guy will parallely teach you coding in pytorch unlike most others which don
 
 # Machine Learning Resource List
 
+- [BITSACM - A Simple Machine Learning Classifier](https://blog.bitsacm.in/a-simple-machine-learning-classifier/): Tutorial for building a simple machine learning classifier on [BITSACM Blog](https://blog.bitsacm.in).
 - [ML ALgorithms Overview](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/) for a basic understanding of the various ml algorithms
 - [Awesome List](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Adversarial Examples and Adversarial Training](https://www.youtube.com/watch?v=CIfsB_EYsVI&feature=youtu.be) - Lecture Video
@@ -68,6 +69,9 @@ This guy will parallely teach you coding in pytorch unlike most others which don
 - [Deep RL Lecture Series](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - [Genetic Algorithm](https://blog.sicara.com/getting-started-genetic-algorithms-python-tutorial-81ffa1dd72f9) - article for beginners
 - [Youtube Recommending system Paper](https://dl.acm.org/doi/10.1145/3298689.3346997)
+- [FastAI's Tutorials](https://course.fast.ai/)
+- [Deep Double Descent](https://openai.com/blog/deep-double-descent/)
+- [NLP Datasets](https://datasets.quantumstat.com/)
 
 ## ML Winter SIGs
 - [Beginner Projects](https://github.com/MananSoni42/ML-SIG-2019/)

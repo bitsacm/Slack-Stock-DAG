@@ -44,3 +44,7 @@ Following these steps will take you a long way in the learning process.
 - After you submit your code, ALWAYS check atleast two other correct codes by other users(if not more!). You will learn new techniques and diffrent coding styles from users all over. THIS IS A MUST.
 - UPSOLVE THE CONTEST! telling from personal experience, this is one of the most efficient ways for a steeper learning curve. Solve all problems even after the contest is over. If you cannot, just see the solution or the editorial if you want to! Thats the only way to learn new things.
 - Never run from topics you are uncomfortable with. (well, this kind of goes without saying.)
+
+## Learning Resources
+- [CP-Algorithms](https://cp-algorithms.com/): A blog with efficiently written C++ code for most data structures and algorithms.
+- [A2OJ Ladders](https://a2oj.com/ladders): List of Good Problems for every rating level on CodeForces

@@ -4,6 +4,8 @@
 - [Making Games with Python and PyGame (beginner)](https://inventwithpython.com/pygame/)
 - [Official Unity Tutorials](https://learn.unity.com/) - Awesome for starting out with Unity
 - [Blender Tutorials](https://www.blender.org/support/tutorials/)
+- [BITSACM - Game Development Blogs](https://blog.bitsacm.in/tag/game-development/)
+    - [Making your first simple game in Python](https://blog.bitsacm.in/making-your-first-simple-game-in-python/)
 
 
 ### Some Projects on GameD

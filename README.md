@@ -10,4 +10,6 @@ Once the DAG is completely set up, the next aim is creating a template for every
 
 Apart from the abovementioned benefits over many pre-existing "[Awesome Lists](https://github.com/sindresorhus/awesome)" on Github, there's a sidelined benefit that helps a lot in the long run. That is, it is constrained, and biased. Created by seniors from the same university from the same country, this provides a very good path for a junior who'd find themselves in quite a similar situation.
 
+Feel free to check out the [BITSACM blog](https://blog.bitsacm.in) for good blog posts!
+
 l-e-a-r-n
