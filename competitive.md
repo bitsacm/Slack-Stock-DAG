@@ -7,14 +7,14 @@ Those who are interested in preparing from MOOCs can refer to these:
 1.  [Algorithms, Part I; Coursera](https://www.coursera.org/learn/algorithms-part1)
 2.  [Algorithms, Part II; Coursera](https://www.coursera.org/learn/algorithms-part2)
 
-For people interested in theoretical aspects of competitive programming can watch:
+For people interested in the theoretical aspects of competitive programming/DSA:
 1.  [MIT OCW 6.006 Introduction to Algorithms, Fall 2011 - YouTube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 2.  [MIT 6.046J Design and Analysis of Algorithms, Spring 2015 - Youtube PLaylist](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
 
-Euler project is a good site to practice problems which are more math orientated.
+- [Project Euler](https://projecteuler.net/) is a good site to practice problems which are more math oriented.
 
 If reading books is your style :
-1.  [Algorithm design manual by Skiene](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
+1.  [The Algorithm Design Manual (TADM) by Skiena](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf) is a super beautiful book for absolute beginners.
 2.  Competitive Programming 3: The New Lower Bound of Programming Contests Book by Felix Halim and Steven Halim
 
 For practicing problems you can visit any popular website like Codechef, Codeforces, SPOJ
