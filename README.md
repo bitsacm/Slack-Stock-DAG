@@ -13,7 +13,7 @@ Apart from the abovementioned benefits over many pre-existing "[Awesome Lists](h
 ------
 
 Contribution Guidelines:
-- Use [hyperlinks] wherever possible
+- Use [hyperlinks]() wherever possible
 - Link course webpages instead of lecture playlists
 
 Feel free to check out the [BITSACM blog](https://blog.bitsacm.in) for good blog posts!
