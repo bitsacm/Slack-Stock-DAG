@@ -16,6 +16,7 @@ For people interested in the theoretical aspects of competitive programming/DSA:
 If reading books is your style :
 1.  [The Algorithm Design Manual (TADM) by Skiena](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf) is a super beautiful book for absolute beginners.
 2.  Competitive Programming 3: The New Lower Bound of Programming Contests Book by Felix Halim and Steven Halim
+3.  [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) : A free and extensive book by Antti Laaksonen
 
 For practicing problems you can visit any popular website like Codechef, Codeforces, SPOJ
 
@@ -36,15 +37,22 @@ For practicing problems you can visit any popular website like Codechef, Codefor
 ## (For advanced topics):
 - Know your syllabus! [This](https://slack-redir.net/linkurl=https%3A%2F%2Fgist.github.com%2Fsharmaeklavya2%2F8aa2830f3a46a3f46ff249b4e1f07767) is a very extensive list of topics to be covered for solving the harder problems in contests.
 - [CommonLounge](https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441/main)
-- [TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
+- [TopCoder - Dynamic Programming](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 - [CodeChef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare#)
 
 ## Right approach to problem solving:
 Following these steps will take you a long way in the learning process.
 - After you submit your code, ALWAYS check atleast two other correct codes by other users(if not more!). You will learn new techniques and diffrent coding styles from users all over. THIS IS A MUST.
-- UPSOLVE THE CONTEST! telling from personal experience, this is one of the most efficient ways for a steeper learning curve. Solve all problems even after the contest is over. If you cannot, just see the solution or the editorial if you want to! Thats the only way to learn new things.
+- **UPSOLVE THE CONTEST**! telling from personal experience, this is one of the most efficient ways for a steeper learning curve. Solve all problems even after the contest is over. If you cannot, try to get a hint by reading first few line of editorial. If you cannot solve even after that, just read the editorial and code the solution yourself before reading the implementation. Sometimes the idea in the editorial seems very trivial to understand, so we have tendency to just skip the implementation. Don't do that. Code it yourself and get that AC.
 - Never run from topics you are uncomfortable with. (well, this kind of goes without saying.)
 
 ## Learning Resources
 - [CP-Algorithms](https://cp-algorithms.com/): A blog with efficiently written C++ code for most data structures and algorithms.
 - [A2OJ Ladders](https://a2oj.com/ladders): List of Good Problems for every rating level on CodeForces
+- [Algorithms Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w) : Detailed video explaination for different algorithms.
+- [Algorithms Thread](https://www.youtube.com/playlist?list=PLZU0kmvryb_HZpDW2yfn-H-RxAu_ts6xq) : Another good YouTube video series from one of the red coder on CF
+- [USASCO Guide](https://usaco-guide.vercel.app/) : A detailed syllabus prepared by [Benq](https://codeforces.com/profile/Benq). It is still in Beta phase but pretty good
+- [CSES Problem Set](https://cses.fi/problemset/) : List of 200 standard problems of varied difficulty
+- [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=84654839) : Alternative for A2OJ ladders
+- [kactl](https://github.com/kth-competitive-programming/kactl) : KTH Algorithm Competition Template Library
+
