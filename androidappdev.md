@@ -6,11 +6,12 @@
 
 ## Android Winter Project:
 - Prospect: Java, Android, XML, Firebase, Firestore
-### Learning Resources:
+## Learning Resources:
 ### Java :
  - Part 1 of The Complete Reference ( concentrate on Class, Overriding functions , Inheritance (V.Imp), Multi Threading(imp),
 ### Android :
-- New Boston Tutorials Youtube Channel (https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
+- [Android Development Masterclass](https://www.udemy.com/course/android-oreo-kotlin-app-masterclass/)
+- [New Boston Tutorials Youtube Channel](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
 - Courses on Coursera or Udacity
 - https://developers.google.com/training/android/#for-new-programmers
 - Advanced : https://in.udacity.com/course/advanced-android-app-development--ud855
