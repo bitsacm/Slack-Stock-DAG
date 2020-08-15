@@ -4,6 +4,8 @@ It is a computational model used to solve several problems in engineering. It is
 
 It must be noted that while Finite Element Analysis is primarily taught in Mathematics and Mechanical Engineering courses, it's applications are broad, interdisciplinary and at the end of the day helps in forming computational simulations.
 
+https://en.wikipedia.org/wiki/Finite_element_method
+
 ### Prerequisites:
 
 A good foundation in Linear Algebra : [MIT OCW 18.06](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
