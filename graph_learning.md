@@ -13,7 +13,7 @@ Prereqs:
 - Graphs (the math and implementations)
 - Databases on a case-to-case basis
 
-Currently there's no structured course on GRL and most of the learning is throught talks, blogs, papers and code. It's easy to find the important ones through a google search, so I'm focusing only on the topics.
+Currently the best structured course on GRL is [CS224W](http://web.stanford.edu/class/cs224w/), and while it's pretty good, most of the learning is throught talks, blogs, papers and code. It's easy to find the important ones through a google search, so I'm focusing only on the topics.
 
 - Look at [this paper](https://arxiv.org/abs/2005.03675#:~:text=Graph%20representation%20learning%20methods%20have,unsupervised%20representations%20of%20relational%20structure) for an overview of all GRL methods.
 
@@ -23,4 +23,6 @@ Currently there's no structured course on GRL and most of the learning is throug
 
 - The most important libraries in Graph Learning are [Deep Graph Library](dgl.ai) and [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric) and they are very much in active developments right now.
 
-- Till we have a course, read up papers, blogs, talks in conferences and code in these libraries!
+- [Video lectures from CS224W](http://snap.stanford.edu/class/cs224w-videos-2019/) are a very good place for all theoretical understanding. After that all recent architectures are available on the PyTorch Geometric Docs.
+
+- Read up papers, blogs, talks in conferences and code in these libraries!
