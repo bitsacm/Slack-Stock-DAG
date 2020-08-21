@@ -3,7 +3,7 @@
 ## Getting started
 
 1. Start with Django. Complete the tutorial on Django Girls (the blog app).
-2. Get good at modelling data with databases. I recommend doing this with a project. Check this [repo](github.com/dush-t/dvm-assignments) out for comprehensive projects in Django - (make sure you read up about best practices for implementing data models while you're doing the assignment and not before it.)
+2. Get good at modelling data with databases. I recommend doing this with a project. Check this [repo](https://github.com/dush-t/dvm-assignments) out for comprehensive projects in Django - (make sure you read up about best practices for implementing data models while you're doing the assignment and not before it.)
 3. Make something interesting with what you learnt.
 4. Learn how to implement JSON APIs in Django and how to use them with front end (your front end knowledge might help here).
 5. Make something using a JSON API.
