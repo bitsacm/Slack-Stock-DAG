@@ -20,8 +20,7 @@ If you're unable to appreciate its utility, watch this 3-part video:
 [part 1](https://www.youtube.com/watch?v=RjPXfUT7Odo),
 [part 2](https://www.youtube.com/watch?v=Q9KOeP-nrYQ),
 [part 3](https://www.youtube.com/watch?v=rAYA2Mu51bw).
-Then read a bit about Lebesgue integration
-(I don't know of a good resource for it; its Wikipedia article may suffice),
+Then read a bit about [Lebesgue integration](https://www.youtube.com/watch?v=LDNDTOVnKJk),
 which helps give a rigorous and general
 [definition of 'expected value'](https://en.wikipedia.org/wiki/Expected_value#General_case).
 - \[course\] [Dan Spielman's Spectral Graph Theory](http://www.cs.yale.edu/homes/spielman/)
