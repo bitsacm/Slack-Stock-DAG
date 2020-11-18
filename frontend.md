@@ -1,5 +1,5 @@
 # Frontend Resources
-- Basic HTML & CSS : https://www.codecademy.com/en/tracks/web
+- Basic HTML & CSS : https://www.codecademy.com/catalog/language/html-css
 - Basic JS : https://www.codecademy.com/learn/introduction-to-javascript
 - More JS : http://eloquentjavascript.net/
 - DOM manipulation (HTML + JS :disappointed: https://www.codecademy.com/courses/intro-to-the-dom/0/1)
