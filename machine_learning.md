@@ -6,7 +6,7 @@ For starting with python : see starting 9 lectures of https://www.youtube.com/pl
 And start with pset 6 of https://cs50.harvard.edu/x/2020/psets/6/
 
 ## Week 1
-Numpy task and Resources: https://github.com/MananSoni42/ML-SIG-2019/tree/master/numpy_tasks
+Numpy task and Resources: task 01 available at https://github.com/MananSoni42/ML-SIG-2019
 
 ## Week 2
 Linear Regression for single variable from scratch using numpy 
