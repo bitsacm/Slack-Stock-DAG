@@ -26,8 +26,8 @@
 - ### [A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps by Academind](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 	- This is a paid course but it covers many topics and you get to build your own demo apps
 		
-- ### [Introduction to Flutter Development Using Dart by Dr. Angela Yu](https://www.appbrewery.co/p/intro-to-flutter)
-	- This is a free course and very good for beginners but it covers fewer topics as compared to the course mentioned above
+- ### [Introduction to Flutter Development Using Dart by Dr. Angela Yu](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)
+	- This is also a paid course and very good for beginners but it covers fewer topics as compared to the course mentioned above
 		(topics like networking, database are not covered in this but still you can start of with this)
 		
 
