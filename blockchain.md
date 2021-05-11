@@ -11,3 +11,4 @@ https://github.com/bitcoinbook/bitcoinbook
 https://github.com/ethereumbook/ethereumbook
 * For a fun introduction to solidity:
 https://cryptozombies.io/
+* For a developer focused roadmap to learn Ethereum: https://github.com/protofire/blockchain-learning-path
