@@ -16,4 +16,4 @@ Here's the Pathway for RL:
 - [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) and [CS285](http://rail.eecs.berkeley.edu/deeprlcourse/) are the most important courses for RL (in 2020). Use them for building up a strong theoretical background.
 - At any point you want to get deeper into any classic RL algorithm, dig deeper into the respective chapter in [Sutton Barto 2e](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - When you want to practice DQNs and PGs, you can take help from these implementations: [Rainbow is all you need](https://github.com/Curt-Park/rainbow-is-all-you-need) and [PG is all you need](https://github.com/MrSyee/pg-is-all-you-need).
-- Read a lot of papers, try out own experiments, etc.
+- Read a lot of papers, try out own experiments, etc. [Spinning Up](https://spinningup.openai.com/en/latest/) should help a lot with this.
